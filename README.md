@@ -33,3 +33,15 @@ Buat file baru bernama Index.php untuk menampilkan data Data Barang
 
 Buat file bernama Tambah.php
 ![1](https://github.com/miraashntnia/Lab8Web/blob/master/Img/8.png)
+![1](https://github.com/miraashntnia/Lab8Web/blob/master/Img/Tambah2.png)
+
+Buat file bernama Ubah.php
+![1](https://github.com/miraashntnia/Lab8Web/blob/master/Img/ubah1.png)
+![1](https://github.com/miraashntnia/Lab8Web/blob/master/Img/ubah2.png)
+Hasilnya akan muncul menu seperti berikut
+![1](https://github.com/miraashntnia/Lab8Web/blob/master/Img/ubah3.png)
+
+Buat file bernama Hapus.php
+![1](https://github.com/miraashntnia/Lab8Web/blob/master/Img/hapus2.png)
+Hasilnya akan muncul seperti berikut
+![1](https://github.com/miraashntnia/Lab8Web/blob/master/Img/Hapus.png)
